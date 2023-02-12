@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Hiruni Anuththara De Silva.
 - 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently working as a Software Engineer Intern at Third Space Global.
-- 🌱 I’m reading BSc. in IT & Management at Faculty of IT University of Moratuwa - Batch 18.
+- 🌱 I’m reading BSc. in IT & Management at Faculty of IT University of Moratuwa.
 - 💞️ I’m looking to collaborate on Software Development Projects.
-- 📫 You can reach me via hiruni.18@itfac.mrt.ac.lk
+- 📫 You can reach me via hirudesilva25@gmail.com
 
 <!---
 Hiruni-ISE/Hiruni-ISE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
